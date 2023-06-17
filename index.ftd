@@ -31,7 +31,7 @@ header-item2-link: /portfolio/about
 header-item3-link: /portfolio/blogs
 header-item4-link: /portfolio/projects
 cta-item2: Schedule a Meeting
-cta-items2-link: /portfolio/meets
+cta-item2-link: /portfolio/meet
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
